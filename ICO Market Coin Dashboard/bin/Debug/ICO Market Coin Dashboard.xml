@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ICO Market Coin Dashboard
+</name>
+</assembly>
+<members>
+<member name="T:ICO_Market_Coin_Dashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.bitcoin_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.blockchain_technology_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.blockchain_technology_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.card_exchange_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.card_exchange_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.decrease_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.decrease_127px_png4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.download_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.email_send_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.ethereum_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.increase_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.increase_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.increase_127px_png3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.litecoin_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.monero_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.plus_math_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.ripple_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.settings_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.settings_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.upload_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.wallet_127px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.wallet_127px_png1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ICO_Market_Coin_Dashboard.My.Resources.Resources.wallet_127px_png2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
